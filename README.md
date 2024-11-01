@@ -4,7 +4,7 @@ App for split your bill calculation
 
 ### Live
 
-[Live here](https://splitbill.vercel.app/)
+[Live here](https://paysplitbill.vercel.app/)
 
 ### Configure
 
