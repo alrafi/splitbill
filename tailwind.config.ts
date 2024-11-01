@@ -9,8 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        graycard: "#37474f",
+        bluecard: "#83b2cb",
+        whitecard: "#f4f7f6",
+        lightgray: "#818181",
+      },
+      screens: {
+        xs: "400px",
+        "3xl": "1680px",
+        "4xl": "2200px",
       },
     },
   },
